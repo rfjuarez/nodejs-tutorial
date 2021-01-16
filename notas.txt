@@ -1,0 +1,5 @@
+exportar modulos con: module.exports
+importar modulos con: require("path/to/module")
+con npm install se genera el package-lock.json
+con npm init se genera el package.json
+
